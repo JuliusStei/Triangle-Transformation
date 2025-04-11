@@ -11,6 +11,7 @@ Trier, 03.06.2023
 
 ## Projektbeschreibung
 Dieses Projekt entstand im Rahmen des Moduls *Einführung in die Computergrafik*. Ziel war es, ein interaktives Java-Swing-Programm zu entwickeln, das grundlegende 2D-Transformationen auf eine Liste von 3D-Punkten anwendet und die Ergebnisse grafisch darstellt.
+Die Klassen Gauss, Matrix, MAtrixView und MatrixViewFloat wurde dabei von Prof. Rudolph bereitgestellt.
 
 ## Funktionsumfang
 
